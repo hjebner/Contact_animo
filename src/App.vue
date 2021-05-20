@@ -122,14 +122,13 @@
       <label class="block uppercase tracking-wide text-black text-xs font-bold mb-2">
         Message
       </label>
-      <textarea class=" no-resize appearance-none block w-full bg-gray-100 text-gray-700 border border-gray-200 rounded py-3 px-4 mb-3 leading-tight focus:outline-none focus:bg-white focus:border-gray-500 h-48 resize-none" placeholder="Try to describe you problem the best is possible.."></textarea>
+      <textarea class="no-resize appearance-none block w-full bg-gray-100 text-gray-700 border border-gray-100 rounded py-3 px-4 mb-3 leading-tight focus:outline-none focus:bg-white focus:border-gray-500 h-48 resize-none" placeholder="Try to describe you problem the best is possible.."></textarea>
     </div>
-  </div>
-  
-  <div>
-      <button class="shadow bg-teal-400 hover:bg-teal-400 focus:shadow-outline focus:outline-none text-white font-bold py-2 px-4 rounded" type="button">
-        Send
+    <div class="flex items-center justify-between">
+      <button class="bg-green-500 ml-4 text-white font-bold py-2 px-4 rounded" type="button">
+        Send Message
       </button>
+    </div>
   </div>
   </div>
 </div>
