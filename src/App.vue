@@ -82,7 +82,7 @@
     
     <!-- Linea divisora -->
     <div class="flex justify-center lg:mb-8 md:mb-4">
-      <img class="mt-64 md:mt-48 sm:mt-36 w-screen h-1 mx-6" src="./img/foto7.png">
+      <img class="mt-36 lg:mt-64 md:mt-48 sm:mt-36 w-screen h-1 mx-6" src="./img/foto7.png">
     </div>
   
   
